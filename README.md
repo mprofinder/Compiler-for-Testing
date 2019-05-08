@@ -1,6 +1,5 @@
 # Compiler-for-Testing
 For Testing only 
-
-Download The ply and install
+Install ply using sudo apt install python-ply
 
 Make the changes in fname.c and compile as python comp.py
